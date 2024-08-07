@@ -255,3 +255,13 @@ Language: English
 https://mega.nz/folder/9cRmFBZK#Uv1D-Ot0_cvBKVl0RmbEBg
 
 ==================================================================================================================================================================================
+
+*7 Projects in 7 Days - Basic to Advance ReactJS*
+
+`Dive into React basics, TailwindCSS, learn useState, useRef, useEffect, prop passing, fetch APIs & other concepts.`
+
+𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤𝐬:
+>𝐆𝐨𝐨𝐠𝐥𝐞 𝐃𝐫𝐢𝐯𝐞:
+https://drive.google.com/drive/folders/1hEx8zp_XPh02DdzR1yxtcjJ_V6bEC9em?usp=sharing
+>𝐎𝐧𝐞𝐃𝐫𝐢𝐯𝐞:
+https://zgc7q-my.sharepoint.com/:f:/g/personal/dhruvrathi_zgc7q_onmicrosoft_com/EirKqwsY-aNGo9BqmchXEz4B5yb6Y9XxEbCGHqBRIfrnCw?e=veip8R
