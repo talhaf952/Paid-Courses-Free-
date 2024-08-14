@@ -1,0 +1,25 @@
+🔰BUG BOUNTY COURSE 2024🔰 
+
+Topic
+1 Introduction To Bug Bounty
+2 Our Virtual Lab Setup
+3 Website Enumeration & Information Gathering
+4 Introduction To Burpsuite
+5 HTML Injection
+6 Command Injection_Execution
+7 Broken Authentication
+8 Bruteforce Attacks
+9 Sensitive Data Exposure
+10 Broken Access Control
+11 Security Misconfiguration
+12 Cross Site Scripting - XSS
+13 SQL Injection
+14 XML, XPath Injection, XXE
+15 Components With Known Vulnerabilities
+16 Insufficient Logging And Monitoring
+17 Monetizing Bug Hunting
+18 Bonus - Web Developer Fundamentals
+19 Bonus - Linux Terminal
+20 Bonus - Networking
+21 Where To Go From Here
+https://mega.nz/folder/96AhRazA#Qci5-I29JIQobl4btJ7w0g…
