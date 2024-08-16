@@ -1,3 +1,124 @@
+*_COLLECTION OF DEADLY TOOLS FOR CYBERSECURITY ☠️_*
+
+*DRUPAL HUNTER EXPLOITATION TOOL 🔍 -*
+https://github.com/dr-iman/Drupal-Hunter
+
+*CMS DETECTOR v2 (WP, DUPAL, JOOMLA) ⏰ -*
+https://github.com/dr-iman/cms-detector
+
+*WORDPRESS DETECTOR (VULN DORKER) 🧙 -*
+https://github.com/dr-iman/Wordpress-detector
+
+*PACKET STORM EXPLOIT LIST 📑 -*
+https://github.com/BuddhaLabs/PacketStorm-Exploits
+
+*PHP SHELLS [LIST] ⚜️ -*
+https://github.com/backdoorhub/shell-backdoor-list/tree/master/shell/php
+
+*PHP FILE MANAGER 📁 -*
+https://github.com/alexantr/filemanager
+
+*OPENCART BRUTEFORCE AND IMAGE UPLOAD 🛒 -*
+https://github.com/indoxploit-coders/opencart-bruteforce
+
+*WEBSHELLS v2 🕸 -*
+https://github.com/phpshellxyz/webshell
+
+*MIXED TOOLS (Cpanel Brute, ShellFinder, Symlink Shell, DDoSer) 🎖 -*
+https://github.com/incredibleindishell/PHP-web-shells
+
+*WHMCS KILLER V4 SHELL(Server Root, Domain Resellers, Client Root, CC, Pass, Accs) ⚔️ -*
+https://github.com/iamhex/WHMCS-Killer-v4
+
+*Amazon AWS S3 Bucket Enumeration 🥪 -*
+https://github.com/0xSearches/sandcastle/
+
+*Amazon SMTP Credential Checker 📧  -*
+https://github.com/noolep/AWCREC
+
+*Twilio Mass Checker 🔑 -*
+https://github.com/noolep/Twilio_Check
+
+*Laravel .env Database Exploit 🧧 -*
+https://github.com/security007/laravelExploit
+
+*007 Scanner(Grabber, Admin finder and more)  🔫 -*
+https://github.com/security007/007scanner
+
+*Laravel Config Exploit 💥 -*
+https://github.com/anhaxteam/laravel-config-exploit
+
+*Laravel PHP Unit RCE and Env Exploiter ✖️ -*
+https://github.com/vsec7/Laravel-PhpUnit-Rce-And-Get-Env-Exploiter
+
+*Zerobyte's Laravel Exploiter 0️⃣  -*
+https://github.com/zerobyte-id-bak/LaravelENV
+
+*DarkSplitz Exploit Framework 🕶 -*
+https://github.com/koboi137/darksplitz
+
+*NetAss2 - Network Assessment Assistance Framework 🍑 -*
+https://github.com/zerobyte-id-bak/NetAss2
+
+*Bashter - Web Scanner & Analyzer 📞  -*
+https://github.com/zerobyte-id-bak/Bashter
+
+*Domain Take Over Finder 🥡 -*
+https://github.com/zerobyte-id-bak/FinderDomainTakeOver
+
+*Sudomy - Subdomain Enumeration & Analysis 😎 -*
+https://github.com/Screetsec/Sudomy
+
+*Wordpress Auto Upload Shell in Plugin 🆙 -*
+https://github.com/AnonRoz-Team/wp_auto_upshell
+
+*Domain to IP [FAST] 🗼 -*
+https://github.com/rebl0x3r/domain2ip
+
+*xAttacker - Website Vulnerability Scanner & Auto Exploiter 🧲 -*
+https://github.com/moham3driahi/xattacker
+
+*SQLI, LFI, XSS and RCE Dorker & Auto Exploiter 💉 -*
+https://github.com/xpr1m3/sqli-lfi-xss-rce-dorker-and-auto-exploiter-python-
+
+*Drupal Hunter 🦌 -*
+https://github.com/dr-iman/drupal-hunter
+
+*Wordpress Exploits (Stored XSS, XML-RPC DDoS, Add Admin, RSS, Login) 💥 -*
+https://github.com/shadowz3n/wpexploit
+
+*Revslider Auto Exploiter ◀️ -*
+https://github.com/kyo1337/revsliderautoexploiter
+
+*WebDav Mass Exploiter 🕸 -*
+https://github.com/kyo1337/Webdav-Mass-Exploiter
+
+*IP Mass Grabber [.exe] 🧖 -*
+https://github.com/kyo1337/Mass-IP-Grabbing
+
+*Shell Finder [ Dictionary Attack + Wordlist ]🐚 -*
+https://github.com/kyo1337/Shell-Finder
+
+*CMS Detector + Vulnerability Finder (Exploit DB) 🏔 -*
+https://github.com/ptonewreckin/cmsdetector
+
+*Advanced CMS Detector (Slow but Exact) 🦾 -*
+https://github.com/redhathackers/cms-detector
+
+*RDP Cracker [ BASH + Wordlists ] 🖥 -*
+https://github.com/exploit-inters/crackrdp
+
+*TIDoS - The Offensive Manual Web Application Penetration Testing Framework ✔️ -*
+https://github.com/exploit-inters/TIDoS-Framework
+
+*CMS Detector v3 - Fast & Multi Threads⚡️ -*
+https://raw.githubusercontent.com/NinjaCR3/CMS-Detector/master/xcms.py
+
+#ImanSec 🇵🇰
+
+===================================================================================================================================================================================
+
+
 Hackstars - Cybersecurity Course 
 Language: Hindi
  Download link 
