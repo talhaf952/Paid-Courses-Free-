@@ -1,3 +1,23 @@
+*Front-End Domination: Create Anything with Code! 💥✨*
+
+*Are you ready to level up your web development game? 🎮💪*
+
+HTML: Build the structure and layout of your web pages. 🧱
+CSS: Design and style your content with visually appealing elements. 🎨
+JavaScript: Add interactivity and functionality to your websites. ⚡
+GSAP and Locomotive: Explore advanced animation techniques for captivating user experiences. 🚀
+React JS: Create reusable components and build scalable web applications. ⚛️
+Redux: Manage state in complex React applications efficiently. 🔄
+Obys Agency Clone: Replicate the design and functionality of a real-world agency website. 🏢
+Refokus Clone: Build a responsive and interactive user interface for a popular web application. 📱
+SCSDB: Develop a dynamic database-driven website with advanced features. 📊
+ExoApe: Explore cutting-edge animation techniques and create a visually stunning project. 🐒
+
+Download Link : https://drive.google.com/drive/folders/1tBZPJEyo2_eIy0gRdYt-qVEnseH0X9qo?usp=sharing
+
+========================================
+
+
 Snake🐍 Game Using HTML, CSS and JavaScript👇👩‍💻   
 https://www.codewithrandom.com/2024/03/24/free-coding-resources/   
 We Create 1000+ HTML, CSS, and JavaScript Projects, Visit Our 
