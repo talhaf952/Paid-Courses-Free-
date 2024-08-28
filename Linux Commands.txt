@@ -1,3 +1,45 @@
+TCM - Linux Privilege Escalation for Beginners2024
+
+Language : English
+
+size : 1.4 GB
+
+What will I learn?
+
+☠1) How to enumerate Linux systems manually and with tools
+
+☠2) A multitude of privilege escalation techniques, including:
+
+Kernel Exploits
+Password Hunting
+File Permissions
+Sudo Attacks
+Shell Escaping
+Intended Functionality
+LD_PRELOAD
+CVE-2019-14287
+CVE-2019-18634
+SUID Attacks
+Shared Object Injection
+Binary Symlinks
+Environment Variables
+Capabilities Attacks
+Scheduled Tasks
+NFS
+Docker
+☠3) Tons of hands-on experience, including:
+
+11 vulnerable machines total
+Capstone challenge
+Custom lab with no installation required
+
+☠Download link
+
+https://mega.nz/file/tXNTALAJ#sHd67ibXDCNctt_5ElBMUfe79AYt7VQEEIibzOuj2UY
+
+=========================================
+
+
 Top 50 Linux Commands You Must Know as a cloud&devops engineer:
 
 01. ls – The most frequently used command in Linux to list directories
