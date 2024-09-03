@@ -1,3 +1,12 @@
 Google is Providing DSA - Data Structure and Algorithm Course for Free in Java, Js, C++ 
 
 Here the link : https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/
+
+=========================================
+📢 *C++ Placement Course by Apna College 📢*
+
+Hello everyone,
+
+I've just uploaded the C++ Placement Course from Apna College to our shared Google Drive folder. This course covers essential concepts and advanced topics that will help you prepare for placements.
+
+📂 Access the course materials here: https://drive.google.com/drive/folders/1QfE-zKiHBdZEFpiYFCiHJa9mJdeu6Xa7?usp=drive_link
