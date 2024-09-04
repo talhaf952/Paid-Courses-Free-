@@ -1,0 +1,26 @@
+*REACT NATIVE by _MOSH_* 
+
+ *Price* : 19$
+ *Language* : English 
+ *Instructor* : _Mosh Hamedani_ 
+
+ *Two series of REACT NATIVE:* 
+👉🏻 *The Ultimate REACT NATIVE Fundamentals* 
+👉🏻 *The Ultimate REACT NATIVE ADVANCED CONCEPTS* 
+
+ *What You'll Learn* 
+👉🏻Confidently build mobile apps using React Native
+👉🏻Properly structure your React Native projects
+👉🏻Run and debug React Native apps effectively
+Work with core components and APIs
+👉🏻Build complex layouts with Flexbox
+👉🏻Apply beautiful styles to your components
+👉🏻Build forms with Formik
+👉🏻Implement data validation with Yup
+👉🏻Publish your React Native apps to Expo
+👉🏻Apply industry best practices
+👉🏻Write clean code like a pro
+👉🏻Use my favorite shortcuts to write code fast
+
+ *Download link:* 
+https://mega.nz/folder/xVBinJoC#IQ0QzdSLL-lb7VVTY7XbSQ/folder/RRByHLoa
