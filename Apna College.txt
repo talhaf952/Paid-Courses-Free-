@@ -1,3 +1,23 @@
+*MERN Stack Web Development Course By APNA COLLEGE.*
+
+*What You'll Learn?*
+- Complete Frontend Development
+- Complete Backend Development
+- Complete Database - SQL & MongoDB
+- Complete MERN Stack (MongoDB, Express, ReactJS, NodeJS)
+- Real Life and Industry Grade Projects
+- LIVE sessions recordings (How to get a Job, Making Resume, Freelance, Open Source) etc.
+
+*500+ Video Lectures covers MERN Stack in Detailed.*
+
+ *Module 1:*
+https://drive.google.com/drive/folders/1vB6ra0uYfPYfeyEwGklfRbo61lsJEORK?fbclid=IwAR0rRoiY3L7gTQvvaMtJb
+
+*Module 2:*
+https://drive.google.com/drive/folders/1eM71dPcg-Mi0NcOnX6_dhrke5NMUvhaq
+
+=======================================
+
 Apna College batch 5 complete 
 
 Language: Urdu/ Hindi 
