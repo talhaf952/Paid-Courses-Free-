@@ -1,0 +1,18 @@
+🎀💓 Ethical Hacking to Become a Cyber Security Expert 💓🎀
+
+
+01. Introduction to Ethical Hacking
+02. Setting up a Penetration Testing Lab
+03. Information Gathering
+04. Scanning and Enumeration
+05. Vulnerability Assessment
+06. Everything about Firewalls!
+07. Web Application Penetration Testing
+08. Denial of Service (DOS)
+09. Malware Threats
+10. Social Engineering
+11. Everything about Cryptography!
+12. Writing a Penetration Testing Report
+13. Final Test
+
+Download link : https://mega.nz/folder/XSpmTIhQ#xeb3IAA36cEfRMuljkYE
