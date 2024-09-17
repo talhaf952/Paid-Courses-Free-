@@ -1,3 +1,34 @@
+دورة_اختراق_الجوال_Mobile_Hacking_Course_Android_ _IOS
+
+language : Arabic
+
+size : 594 MB
+
+ℹ️Info
+
+🏴‍☠️1. Introduction
+
+🏴‍☠️2. Kali Basics
+
+🏴‍☠️3. Backdoors IOS Vs. Android
+
+🏴‍☠️4. JDK Installation
+
+🏴‍☠️5. Swift
+🏴‍☠️6. Rooting & Jailbreaking
+
+🏴‍☠️7. What is Firebase & How to use
+
+🏴‍☠️8. iOS Payload Making
+
+☠️Download link
+
+https://mega.nz/file/AWEHzYLD#5lbR2gcnBCcQQZMIdR_qfJEV6KsHE1ko6yFk4d4ybLI
+
+=========================================
+
+
+
 *All The Hacking Courses Of _DEDSEC_ Here.* 
 
 > All the courses are uploaded on Google Drive so, the links don’t get expired.
