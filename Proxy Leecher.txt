@@ -1,0 +1,10 @@
+Proxy Leecher
+
+A proxy leecher is a software or service that:
+
+1. Collects and aggregates proxy servers from various sources.
+2. Verifies and filters proxies for performance and anonymity.
+3. Provides access to working proxies for users.
+
+Download link
+https://mega.nz/file/Zrlw0YqB#1MCyI5yUmO-Y4JBBT3qHRf03WYC0m6Rya8OK5_nlaNs
