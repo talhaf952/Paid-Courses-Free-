@@ -1,4 +1,8 @@
 Proxy Checker
+(A proxy checker is a tool or software that verifies the functionality and quality of proxy servers. It checks proxies for:
+
+1. Availability (online/offline status)
+2. Speed (response time,)
 
 Download link
 
