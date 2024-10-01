@@ -1,0 +1,26 @@
+Rdp Brute Checker 
+
+Download link
+
+https://mega.nz/file/wvl3UDDI#4JaJYCqg9bbasdUpNDzMb7-XiBLDMt7ZzkC-bfh41Z4
+
+
+1. For Cracking we need some tools
+  
+i ) proxy checker
+ii ) Combo editor 
+
+proxy Checker 
+
+
+https://mega.nz/file/EyVhHQLL#crBGXgNpdDMJ-uiyQS3cQ0qwMmJWXC-xPdX-XuPNNUM
+
+Combo editor 
+
+https://mega.nz/file/AelySZzT#CCYVq4BZEsdoKa477CV4342EnYLM4AI1FRlNWnrc4uM
+
+use combo editor and make combo like this 
+
+127.48.141.45:3389\Administrator;0123456789
+
+ip:port\username;password
