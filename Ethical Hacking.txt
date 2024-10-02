@@ -1,3 +1,29 @@
+BASICS OF ETHICAL HACKING CORE TRAINING
+
+Language : English
+
+🔰TOPICS
+
+1. The Truth About Living in a Technology Based World
+2. Overview of the CEH Certification Program
+3. How to Build a Lab to Hack Safely
+4. Installing and Configuring Your Windows Server VMs
+5. Installing and Configuring Your Desktop VMs
+6. Information Security Overview
+7. Security Threats and Attack Vectors
+8. Hacking Concepts
+9. Hacking Phases
+10. Attack Types
+11. Information Security Controls
+12. How to Prepare for the Certified Ethical Hacker Exam
+
+Download link
+
+https://mega.nz/folder/B7kxmbgT#WNFKn0HnHwEOoJCrFB8S-A
+
+______________________________________
+
+
 📚Practical Ethical Hacking from Beginning to Advance! 
 
 📝A Complete Free Course: Learn Ethical Hacking From Scratch! 
