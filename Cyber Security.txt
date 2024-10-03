@@ -150,7 +150,7 @@ https://raw.githubusercontent.com/NinjaCR3/CMS-Detector/master/xcms.py
 
 #ImanSec 🇵🇰
 
-======================================================================================================
+========================================
 
 Hackstars - Cybersecurity Course 
 Language: Hindi
