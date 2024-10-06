@@ -1,4 +1,13 @@
 Proxy Checker
+
+Download link
+
+https://mega.nz/file/RusgUJwK#_SsjAVTzL7FSdE0dHBLzskV3RGHqdlKLKi4MJpnZVog
+
+_______________________________________
+
+
+Proxy Checker
 (A proxy checker is a tool or software that verifies the functionality and quality of proxy servers. It checks proxies for:
 
 1. Availability (online/offline status)
