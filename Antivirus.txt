@@ -1,0 +1,34 @@
+antivirus Evasion:
+
+
+Antivirus evasion refers to techniques used by malware authors to evade detection by antivirus software. These techniques help malware remain undetected, allowing it to:
+
+1. Infect systems
+2. Steal sensitive data
+3. Conduct malicious activities
+
+
+Types of Antivirus Evasion:
+
+
+1. Code Obfuscation: Disguising malware code to prevent signature-based detection.
+2. Encryption: Concealing malware code within encrypted files or communications.
+3. Polymorphism: Constantly changing malware code to evade signature-based detection.
+4. Metamorphism: Modifying malware code to change its behavior and evade detection.
+5. Anti-Debugging: Techniques to prevent debuggers from analyzing malware.
+6. Anti-Emulation: Techniques to prevent emulators from analyzing malware.
+7. Code Injection: Injecting malware into legitimate processes.
+8. Fileless Malware: Residing in memory only, without writing to disk.
+
+
+Evasion Techniques:
+
+
+1. Packers and Crypters: Compressing or encrypting malware to evade detection.
+2. Code Cave Injection: Injecting malware into existing executable files.
+3. API Hooking: Manipulating API calls to conceal malware activity.
+4. Kernel-Mode Rootkits: Hiding malware in kernel mode.
+5. User-Mode Rootkits: Hiding malware in user mode.
+
+——————————————-
+After this course you don't need Crypter to bypass antivirus
