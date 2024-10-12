@@ -1,0 +1,33 @@
+SpaceX DRAINER v2 Source Code 
+
+Download link
+
+https://mega.nz/file/8rVkQQbR#ZzqhBPAN-so8K8SDbLoZHZRKQWSAGdJGWWOX0cNPHe0
+
+What is SpaceX DRAINER ?
+
+CryptoDrainer:
+
+CryptoDrainer is a type of malware designed to steal cryptocurrency wallet private keys, passwords, and other sensitive information. Its primary goal is to drain victims' cryptocurrency accounts.
+
+Types of CryptoDrainers:
+
+1. Keyloggers: Record keystrokes to capture wallet passwords.
+2. Clipboard Hijackers: Intercept and replace cryptocurrency addresses.
+3. Wallet Hijackers: Steal wallet files or private keys.
+4. Phishing Malware: Trick users into revealing sensitive information.
+
+CryptoDrainer Techniques:
+
+1. Social Engineering: Lure victims into downloading malware.
+2. Exploit Kits: Exploit software vulnerabilities.
+3. Drive-by Downloads: Infect devices through compromised websites.
+4. Infected Software: Bundle malware with legitimate software.
+
+CryptoDrainer Targets:
+
+1. Bitcoin (BTC)
+2. Ethereum (ETH)
+3. Litecoin (LTC)
+4. Monero (XMR)
+5. Other cryptocurrencies
