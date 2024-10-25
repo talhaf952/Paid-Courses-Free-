@@ -1,3 +1,24 @@
+🤍The Secrets of Nmap: Master Network Scanning and Hacking🤍
+
+Become an expert at Nmap to discovery network vulnerabilities using Kali Linux and Wireshark!
+
+1. Introduction
+2. Networking Fundamentals
+3. Legal Implications
+4. Network Discovery
+5. In-Depth Nmap Scan Options
+6. Evading Firewalls & Intrusion Detection Systems (IDS)
+7. Nmap Scripting Engine (NSE)I
+8. Nmap Port Scanning & Scan Ordering
+9. Output Formats
+10. Zenmap & WebMap
+
+Download :-  
+https://mega.nz/folder/xncmjQYT#zbqmRESdLqXGpcSNOONlmg
+ 
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
+
 📢Top 10 Hacking And CyberSecurity Course For FREE
 
 Link 1 :https://bit.ly/3pXTXBZ
