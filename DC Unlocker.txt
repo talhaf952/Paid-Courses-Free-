@@ -3,3 +3,39 @@ Dc Unlocker
 Download link
 
 https://mega.nz/file/mI0iSLYY#_6ac4TkDs1nJpkXCOywdVmLNS-fKfzTEnNQI2xkKQTg
+
+DC-Unlocker:
+
+DC-Unlocker is a software tool used for:
+
+1. Unlocking mobile devices (e.g., smartphones, tablets)
+2. Removing SIM locks
+3. Bypassing carrier restrictions
+4. Enabling device flexibility
+
+Supported Devices:
+
+1. Huawei
+2. ZTE
+3. Alcatel
+4. Motorola
+5. Samsung
+6. LG
+7. Sony
+8. HTC
+
+Features:
+
+1. Unlock SIM cards
+2. Remove carrier locks
+3. Change IMEI
+4. Repair IMEI
+5. Flash firmware
+6. Read/Write device information
+
+Usage:
+
+1. Connect device to PC via USB
+2. Run DC-Unlocker software
+3. Select device model and operation
+4. Follow on-screen instructions
