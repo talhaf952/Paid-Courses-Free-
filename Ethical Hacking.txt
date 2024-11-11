@@ -1,3 +1,27 @@
+🌴 Recon for Ethical Hacking / Penetration Testing & Bug Bounty
+
+Language : English 
+
+Size : 1Gb
+
+Complete Methodology for Ethical Hacking, Pentesting & Bug Bounties with Live Attacks
+
+◽️ Bug Bounty Recon Introduction
+◽️ Shodan for Bug Bounties
+◽️ Certificate Transparency for Subdomain Enumeration
+◽️ Scope Expansion
+◽️ Diving in depth of Archives for Bug Bounties
+◽️ DNS Enumeration for Bug Bounties
+◽️ CMS Identification
+◽️ Fuzzing
+
+☠️Download Link
+
+https://mega.nz/folder/tDtBlQJK#3w4Zw3YPQegkObsQ58agWg
+
+_______________________________________
+
+
 BASICS OF ETHICAL HACKING CORE TRAINING
 
 Language : English
