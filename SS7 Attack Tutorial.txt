@@ -1,0 +1,31 @@
+SS7 Attack Tutorial
+
+Lang: English 
+
+1) Hijacking Network Elements Over SS7 - A New Type of Attack
+2) What is Signaling SS7 in GSM & Cellular wireless Networks 
+3) Software  & Hardware Need for  SS7 
+4) install Hackrf  in  Windows.10
+5) Solve SS7 - Vulnerable in Kali Linux 2019.4 part 1
+6) SS7 attack Part - 2 Kali Linux
+7) SS7 - Part - 3 Cell Phone Signal Jammer Kali Linux
+8) C7 SS7 Osmo - BB in Back Box Linux 2020
+9) ss7  Global Access File Kali Linux 2020.1
+10) SS7 GSM Sniffing Wireshark 100 % True
+11) SS7 And GSM Arsenal Installed Kali Linux
+12) SS7 in Kali Linux
+13) SS7 Dependence Install Kali Linux 2020.2
+14) SS7 Attacks used to steal Facebook login
+15) GSM BTS USRP1 And Two Mobile Phones Capture Voice in linux
+
+Hardware Requirements 
+
+RTL-SDR Dongle
+
+HackRF One
+
+
+
+Download link 
+
+https://mega.nz/file/KFM3zZRK#PNhiClX70wBoP0mxuwqNqLa062Koj7dUk98LZ-isSro
