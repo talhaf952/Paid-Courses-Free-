@@ -1,3 +1,16 @@
+Squad Mailer
+
+Download link
+
+https://mega.nz/file/3JUA0BBb#hSmPJZ8f3lU65AvL_H-T6aUywr7O9Dg5dMKVFDKo-n4
+
+its work with SMTP 
+
+Requirments : SMTP
+
+______________________________________
+
+
 Domain Checker 
 
 Download link
