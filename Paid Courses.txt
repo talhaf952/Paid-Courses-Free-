@@ -1,3 +1,26 @@
+Smart Security Course
+
+Language : English
+
+Size : 1.9 GB
+
+1 Introduction to Smart contract security audit course
+2 Consensus based Vulnerabilities Bitcoin Ethereum BnB Chain Polygon
+3 Denial of Service attack Attack Network and transaction Level
+4 Smart Contract Attack Vector Denial of Service
+5 Smart Contract Attack vector Reentrancy Attack
+6 Smart Contract Attack RugPull Pump Dump schemes Limit sell order
+7 Smart Contract Attack vector Front Running Signature replay Attack
+8 DeFi Decentralized Finance Concepts
+9 Capstone project Perform a full Smart Contract audit on Wallet
+
+Download link
+
+https://mega.nz/file/6YkwiY5I#kZqQDCmoNjl5Ub9q_-T2kV5SUW5I5RTwdPEw1IPio_I
+
+______________________________________
+
+
 Squad Mailer
 
 Download link
