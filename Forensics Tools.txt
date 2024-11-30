@@ -1,0 +1,69 @@
+`Top 50 Digital Forensics Tools`
+
+Network Forensic Tools
+- Nmap
+- Wireshark
+- Xplico
+- Snort
+- TCPDump
+- The Slueth Kit
+
+Mobile Forensics Tools
+- Elcomspoft iOS Forensic Toolkit
+- Mobile Verification Toolkit
+- Oxygen Forensic
+- MOBILedit
+- Cellebrite UFED
+- MSAB XRY
+
+Malware Analysis Tools
+- Wireshark
+- YARA
+- Malwarebytes
+- VirusTotal
+- Cuckoo Sandbox
+- IDA Pro
+
+Data Recovery Tools
+- Recuva
+- EaseUS Data Recovery
+- TestDisk
+- Stellar Data Recovery
+- PhotoRec
+- Disk Drill
+
+Email Forensic Tools
+- MailXaminer
+- MailPro+
+- Xtraxtor
+- Aid4Mail
+- eMailTrackerPro
+- Autopsy
+
+OSINT Tools
+- Maltego
+- Nmap
+- OSINT Framework
+- Shodan
+- Recon-ng
+- TheHavester
+
+Live Forensics Tools
+- OS Forensics
+- Encase Live
+- CAINE
+- F-Response
+- Kali Linux Forensic Mode
+
+Memory Forensics Tools
+- Volatility
+- DumpIt
+- memDump
+- Access data FTK Imager
+- Hibernation Recon
+- WindowSCOPE
+
+Cloud Forensic Tools
+- Magnet AXIOM
+- MSAB XRY Cloud
+- Azure CLI
