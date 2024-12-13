@@ -1,3 +1,43 @@
+*🚀 Learn C++ with Data Structures & Algorithms in 4 Months! 🚀*
+
+
+*What will you learn?*
+
+1. Flowcharts & Pseudocode
+2. Variables & Data Types
+3. Operators
+4. Conditional Statements
+5. Loops (Flow Control)
+6. Patterns
+7. Functions & Scope
+8. Arrays & 2D Arrays
+9. Sorting Algorithms
+10. Strings
+11. Pointers & Dynamic Allocation
+12. Standard Template Library (STL)
+13. Time & Space Complexity
+14. Recursion & Backtracking
+15. Divide & Conquer
+16. Object-Oriented Programming (OOP)
+17. Linked Lists
+18. Stacks & Queues
+19. Binary Trees
+20. Binary Search Trees
+21. Heaps (Priority Queue)
+22. Hashmaps
+23. Tries
+24. Graphs
+25. Greedy Algorithms
+26. Dynamic Programming
+27. Segment Trees
+
+🎯 Get ready to master C++ and DSA!
+
+Download Link: https://drive.google.com/drive/folders/1QfE-zKiHBdZEFpiYFCiHJa9mJdeu6Xa7?usp=sharing
+
+____________________________________
+
+
 https://mega.nz/folder/QkwEGAII#0CDNw-mvSDJYcB603RYhBg
 
 *Abdul Bari Java+DSA and C/C++ with DSA*
